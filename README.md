@@ -9,5 +9,6 @@ Juego clásico del tres en raya desarrollado en Java
 ## Instalación y Ejecución
 - Paso 1: Descargar el proyecto
 - Paso 2: Navegar a la carpeta `dist`
-- Paso 3: Ejecutar el archivo JAR
+- Paso 3: Ejecutar el archivo JAR `java -jar TicTacToe.jar`
+
 
